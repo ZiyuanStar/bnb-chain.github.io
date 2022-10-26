@@ -8,7 +8,7 @@ sidebar_position: 2
 
 ## Introduction
 
-Developers building on BNB Smart Chain can now leverage Band’s decentralized oracle infrastructure. With Band’s oracle, they now have access to various cryptocurrency price data to integrate into their applications.
+Developers building on BNB Smart Chain can now leverage Band’s decentralized oracle infrastructure. With Band’s oracle, they now have access to various cryptocurrency price data to integrate into their own applications.
 
 ## Supported Tokens
 
